@@ -1,0 +1,838 @@
+{
+"data":[
+	{
+		"date": "01 Januari",
+		"events":[
+			"Hari Tahun Baru Masehi (Internasional)"
+		]
+	},
+	{
+		"date": "03 Januari",
+		"events":[
+			"Hari Departemen Agama"
+		]
+	},
+	{
+		"date": "05 Januari",
+		"events":[
+			"Hari Korps Wanita Angkatan Laut (KOWAL)"
+		]
+	},
+	{
+		"date": "10 Januari",
+		"events":[
+			"Hari Gerakan Satu Juta Pohon (Internasional)",
+			"Hari Tritura"
+		]
+	},
+	{
+		"date": "15 Januari",
+		"events":[
+			"Hari Darma Samudra"
+		]
+	},
+	{
+		"date": "25 Januari",
+		"events":[
+			"Hari Gizi Dan Makanan",
+			"Hari Kusta (Internasional)"
+		]
+	},
+	{
+		"date": "02 Februari",
+		"events":[
+			"Hari Lahan Basah Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "04 Februari",
+		"events":[
+			"Hari Kanker Dunia (Internasional)"
+		]
+	},
+	{
+		"date": "05 Februari",
+		"events":[
+			"Hari Peristiwa Kapal Tujuh Provinsi (Zeven Provinciën)"
+		]
+	},
+	{
+		"date": "09 Februari",
+		"events":[
+			"Hari Pers Nasional (HPN)",
+			"Hari Kavaleri"
+		]
+	},
+	{
+		"date": "14 Februari",
+		"events":[
+			"Hari Peringatan Pemberontakan Pembela Tanah Air (PETA)"
+		]
+	},
+	{
+		"date": "22 Februari",
+		"events":[
+			"Hari Istiqlal"
+		]
+	},
+	{
+		"date": "28 Februari",
+		"events":[
+			"Hari Gizi Nasional Indonesia"
+		]
+	},
+	{
+		"date": "01 Maret",
+		"events":[
+			"Hari Peringatan Peristiwa Serangan Umum di Yogyakarta",
+			"Hari Kehakiman Nasional"
+		]
+	},
+	{
+		"date": "06 Maret",
+		"events":[
+			"Hari KOSTRAD (Komando Strategis Angkatan Darat)"
+		]
+	},
+	{
+		"date": "08 Maret",
+		"events":[
+			"Hari Perempuan (Internasional)"
+		]
+	},
+	{
+		"date": "09 Maret",
+		"events":[
+			"Hari Musik Nasional"
+		]
+	},
+	{
+		"date": "10 Maret",
+		"events":[
+			"Hari Persatuan Artis Film Indonesia (PARFI)"
+		]
+	},
+	{
+		"date": "11 Maret",
+		"events":[
+			"Hari Surat Perintah 11 Maret (Supersemar)"
+		]
+	},
+	{
+		"date": "15 Maret",
+		"events":[
+			"Hari Hak Konsumen Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "17 Maret",
+		"events":[
+			"Hari Perawat Nasional"
+		]
+	},
+	{
+		"date": "18 Maret",
+		"events":[
+			"Hari Arsitektur Indonesia"
+		]
+	},
+	{
+		"date": "20 Maret",
+		"events":[
+			"Hari Dongeng Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "21 Maret",
+		"events":[
+			"Hari Puisi Sedunia (Internasional)",
+			"Hari Down Syndrome (Internasional)",
+		"Hari Hutan Sedunia (Internasional)"
+	]
+	},
+	{
+		"date": "22 Maret",
+		"events":[
+			"Hari Air Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "23 Maret",
+		"events":[
+			"Hari Meteorologi Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "24 Maret",
+		"events":[
+			"Hari Peringatan Bandung Lautan Api",
+			"Hari Tuberkulosis Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "30 Maret",
+		"events":[
+			"Hari Film Indonesia"
+		]
+	},
+	{
+		"date": "01 April",
+		"events":[
+			"Hari Bank Dunia (Internasional)"
+		]
+	},
+	{
+		"date": "02 April",
+		"events":[
+			"Hari Peduli Autisme Sedunia (Internasional)",
+			"Hari Buku Anak Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "06 April",
+		"events":[
+			"Hari Nelayan Indonesia"
+		]
+	},
+	{
+		"date": "07 April",
+		"events":[
+			"Hari Kesehatan (Internasional)"
+		]
+	},
+	{
+		"date": "09 April",
+		"events":[
+			"Hari TNI Angkatan Udara (TNI AU)"
+		]
+	},
+	{
+		"date": "16 April",
+		"events":[
+			"Hari KOPASSUS (Komando Pasukan Khusus)"
+		]
+	},
+	{
+		"date": "17 April",
+		"events":[
+			"Hari Hemophilia Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "18 April",
+		"events":[
+			"Hari Peringatan Konferensi Asia-Afrika (KAA)"
+		]
+	},
+	{
+		"date": "19 April",
+		"events":[
+			"Hari Pertahanan Sipil (HANSIP)"
+		]
+	},
+	{
+		"date": "20 April",
+		"events":[
+			"Hari Konsumen Nasional"
+		]
+	},
+	{
+		"date": "21 April",
+		"events":[
+			"Hari Kartini"
+		]
+	},
+	{
+		"date": "22 April",
+		"events":[
+			"Hari Bumi (Internasional)"
+		]
+	},
+	{
+		"date": "23 April",
+		"events":[
+			"Hari Buku Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "24 April",
+		"events":[
+			"Hari Angkutan Nasional",
+			"Hari Solidaritas Asia-Afrika"
+		]
+	},
+	{
+		"date": "25 April",
+		"events":[
+			"Hari Malaria Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "26 April",
+		"events":[
+			"Hari Kekayaan Intelektual Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "27 April",
+		"events":[
+			"Hari Pemasyarakatan Indonesia"
+		]
+	},
+	{
+		"date": "28 April",
+		"events":[
+			"Hari Puisi Nasional",
+			"Hari Kesehatan dan Keselamatan Kerja (Internasional)"
+		]
+	},
+	{
+		"date": "29 April",
+		"events":[
+			"Hari Tari (Internasional)"
+		]
+	},
+	{
+		"date": "01 Mei",
+		"events":[
+			"Hari Buruh Sedunia (Internasional)",
+			"Hari Peringatan Pembebasan Irian Barat"
+		]
+	},
+	{
+		"date": "02 Mei",
+		"events":[
+			"Hari Pendidikan Nasional (Hardiknas)"
+		]
+	},
+	{
+		"date": "05 Mei",
+		"events":[
+			"Hari Lembaga Sosial Desa (LSD)",
+			"Hari Bidan (Internasional)"
+		]
+	},
+	{
+		"date": "17 Mei",
+		"events":[
+			"Hari Buku Nasional"
+		]
+	},
+	{
+		"date": "20 Mei",
+		"events":[
+			"Hari Kebangkitan Nasional"
+		]
+	},
+	{
+		"date": "21 Mei",
+		"events":[
+			"Hari Peringatan Reformasi"
+		]
+	},
+	{
+		"date": "29 Mei",
+		"events":[
+			"Hari Keluarga"
+		]
+	},
+	{
+		"date": "31 Mei",
+		"events":[
+			"Hari Tanpa Tembakau Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "01 Juni",
+		"events":[
+			"Hari Lahir Pancasila",
+			"Hari Anak-anak Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "03 Juni",
+		"events":[
+			"Hari Pasar Modal Indonesia"
+		]
+	},
+	{
+		"date": "05 Juni",
+		"events":[
+			"Hari Lingkungan Hidup Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "08 Juni",
+		"events":[
+			"Hari Laut Sedunia"
+		]
+	},
+	{
+		"date": "21 Juni",
+		"events":[
+			"Hari Krida Pertanian"
+		]
+	},
+	{
+		"date": "24 Juni",
+		"events":[
+			"Hari Bidan Nasional"
+		]
+	},
+	{
+		"date": "26 Juni",
+		"events":[
+			"Hari Anti Narkoba Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "29 Juni",
+		"events":[
+			"Hari Keluarga Berencana (KB)"
+		]
+	},
+	{
+		"date": "01 Juli",
+		"events":[
+			"Hari Bhayangkara"
+		]
+	},
+	{
+		"date": "05 Juli",
+		"events":[
+			"Hari Bank Indonesia"
+		]
+	},
+	{
+		"date": "09 Juli",
+		"events":[
+			"Hari Satelit Palapa"
+		]
+	},
+	{
+		"date": "12 Juli",
+		"events":[
+			"Hari Koperasi Indonesia"
+		]
+	},
+	{
+		"date": "17 Juli",
+		"events":[
+			"Hari Keadilan (Internasional)"
+		]
+	},
+	{
+		"date": "22 Juli",
+		"events":[
+			"Hari Kejaksaan"
+		]
+	},
+	{
+		"date": "23 Juli",
+		"events":[
+			"Hari Anak Nasional"
+		]
+	},
+	{
+		"date": "29 Juli",
+		"events":[
+			"Hari Bhakti TNI Angkatan Udara"
+		]
+	},
+	{
+		"date": "01 Agustus",
+		"events":[
+			"Hari ASI Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "05 Agustus",
+		"events":[
+			"Hari Dharma Wanita Nasional"
+		]
+	},
+	{
+		"date": "08 Agustus",
+		"events":[
+			"Hari Ulang Tahun ASEAN"
+		]
+	},
+	{
+		"date": "09 Agustus",
+		"events":[
+			"Hari Masyarakat Adat (Internasional)"
+		]
+	},
+	{
+		"date": "10 Agustus",
+		"events":[
+			"Hari Veteran Nasional",
+			"Hari Kebangkitan Teknologi Nasional"
+		]
+	},
+	{
+		"date": "12 Agustus",
+		"events":[
+			"Hari Remaja (Internasional)"
+		]
+	},
+	{
+		"date": "14 Agustus",
+		"events":[
+			"Hari Pramuka (Praja Muda Karana)"
+		]
+	},
+	{
+		"date": "17 Agustus",
+		"events":[
+			"Hari Proklamasi Kemerdekaan Republik Indonesia"
+		]
+	},
+	{
+		"date": "18 Agustus",
+		"events":[
+			"Hari Konstitusi Republik Indonesia"
+		]
+	},
+	{
+		"date": "19 Agustus",
+		"events":[
+			"Hari Departemen Luar Negeri Indonesia"
+		]
+	},
+	{
+		"date": "21 Agustus",
+		"events":[
+			"Hari Maritim Nasional"
+		]
+	},
+	{
+		"date": "01 September",
+		"events":[
+			"Hari Jantung Dunia (Internasional)",
+			"Hari Polisi Wanita (POLWAN)"
+		]
+	},
+	{
+		"date": "03 September",
+		"events":[
+			"Hari Palang Merah Indonesia (PMI)"
+		]
+	},
+	{
+		"date": "04 September",
+		"events":[
+			"Hari Pelanggan Nasional"
+		]
+	},
+	{
+		"date": "08 September",
+		"events":[
+			"Hari Aksara (Internasional)",
+			"Hari Pamong Praja"
+		]
+	},
+	{
+		"date": "09 September",
+		"events":[
+			"Hari Olah Raga Nasional"
+		]
+	},
+	{
+		"date": "11 September",
+		"events":[
+			"Hari Radio Republik Indonesia (RRI)"
+		]
+	},
+	{
+		"date": "14 September",
+		"events":[
+			"Hari Kunjung Perpustakaan"
+		]
+	},
+	{
+		"date": "15 September",
+		"events":[
+			"Hari Demokrasi (Internasional)"
+		]
+	},
+	{
+		"date": "16 September",
+		"events":[
+			"Hari Ozon (Internasional)"
+		]
+	},
+	{
+		"date": "17 September",
+		"events":[
+			"Hari Perhubungan Nasional",
+			"Hari Palang Merah Nasional"
+		]
+	},
+	{
+		"date": "21 September",
+		"events":[
+			"Hari Perdamaian Dunia (Internasional)"
+		]
+	},
+	{
+		"date": "24 September",
+		"events":[
+			"Hari Tani Nasional"
+		]
+	},
+	{
+		"date": "26 September",
+		"events":[
+			"Hari Statistik"
+		]
+	},
+	{
+		"date": "27 September",
+		"events":[
+			"Hari Pos Telekomunikasi Telegraf (PTT)"
+		]
+	},
+	{
+		"date": "28 September",
+		"events":[
+			"Hari Kereta Api",
+			"Hari Jantung Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "29 September",
+		"events":[
+			"Hari Sarjana Nasional"
+		]
+	},
+	{
+		"date": "30 September",
+		"events":[
+			"Hari Peringatan Pemberontakan G30S/PKI"
+		]
+	},
+	{
+		"date": "01 Oktober",
+		"events":[
+			"Hari Kesaktian Pancasila",
+			"Hari Vegetarian Sedunia  (Internasional)",
+		"Hari Lanjut Usia (Internasional)"
+	]
+	},
+	{
+		"date": "02 Oktober",
+		"events":[
+			"Hari Batik Nasional dan Hari Batik Dunia"
+		]
+	},
+	{
+		"date": "05 Oktober",
+		"events":[
+			"Hari Tentara Nasional Indonesia (TNI)",
+			"Hari Guru Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "10 Oktober",
+		"events":[
+			"Hari Kesehatan Jiwa Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "14 Oktober",
+		"events":[
+			"Hari Penglihatan Dunia (Internasional)"
+		]
+	},
+	{
+		"date": "15 Oktober",
+		"events":[
+			"Hari Hak Asasi Binatang (Internasional)"
+		]
+	},
+	{
+		"date": "16 Oktober",
+		"events":[
+			"Hari Pangan Sedunia (Internasional)",
+			"Hari Parlemen Indonesia"
+		]
+	},
+	{
+		"date": "20 Oktober",
+		"events":[
+			"Hari Osteoporosis Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "24 Oktober",
+		"events":[
+			"Hari Dokter Indonesia",
+			"Hari Perserikatan Bangsa-bangsa (Internasional)"
+		]
+	},
+	{
+		"date": "27 Oktober",
+		"events":[
+			"Hari Penerbangan Nasional",
+			"Hari Listrik Nasional"
+		]
+	},
+	{
+		"date": "28 Oktober",
+		"events":[
+			"Hari Sumpah Pemuda"
+		]
+	},
+	{
+		"date": "30 Oktober",
+		"events":[
+			"Hari Keuangan"
+		]
+	},
+	{
+		"date": "05 November",
+		"events":[
+			"Hari Cinta Puspa dan Satwa Nasional"
+		]
+	},
+	{
+		"date": "10 November",
+		"events":[
+			"Hari Ganefo",
+			"Hari Pahlawan"
+		]
+	},
+	{
+		"date": "11 November",
+		"events":[
+			"Hari Bangunan Indonesia"
+		]
+	},
+	{
+		"date": "12 November",
+		"events":[
+			"Hari Kesehatan Nasional",
+			"Hari Ayah Nasional"
+		]
+	},
+	{
+		"date": "14 November",
+		"events":[
+			"Hari Brigade Mobil (BRIMOB)",
+			"Hari Diabetes Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "20 November",
+		"events":[
+			"Hari Anak (Internasional)"
+		]
+	},
+	{
+		"date": "21 November",
+		"events":[
+			"Hari Pohon (Internasional)",
+			"Hari Televisi Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "22 November",
+		"events":[
+			"Hari Perhubungan Darat Nasional"
+		]
+	},
+	{
+		"date": "25 November",
+		"events":[
+			"Hari Guru (PGRI)"
+		]
+	},
+	{
+		"date": "28 November",
+		"events":[
+			"Hari Menanam Pohon Indonesia"
+		]
+	},
+	{
+		"date": "29 November",
+		"events":[
+			"Hari KORPRI (Korps Pegawai RI)"
+		]
+	},
+	{
+		"date": "01 Desember",
+		"events":[
+			"Hari Artileri",
+			"Hari AIDS Sedunia (Internasional)"
+		]
+	},
+	{
+		"date": "03 Desember",
+		"events":[
+			"Hari Penyandang Cacat (Internasional)"
+		]
+	},
+	{
+		"date": "07 Desember",
+		"events":[
+			" Hari Penerbangan Sipil (Internasional)"
+		]
+	},
+	{
+		"date": "09 Desember",
+		"events":[
+			"Hari Armada Republik Indonesia",
+			"Hari Anti Korupsi Sedunia"
+		]
+	},
+	{
+		"date": "10 Desember",
+		"events":[
+			"Hari Hak Asasi Manusia"
+		]
+	},
+	{
+		"date": "12 Desember",
+		"events":[
+			"Hari Transmigrasi"
+		]
+	},
+	{
+		"date": "13 Desember",
+		"events":[
+			"Hari Nusantara"
+		]
+	},
+	{
+		"date": "15 Desember",
+		"events":[
+			"Hari Juang Kartika TNI-AD (Hari Infanteri)"
+		]
+	},
+	{
+		"date": "19 Desember",
+		"events":[
+			"Hari Bela Negara"
+		]
+	},
+	{
+		"date": "20 Desember",
+		"events":[
+			"Hari Kesetiakawanan Sosial Nasional"
+		]
+	},
+	{
+		"date": "22 Desember",
+		"events":[
+			"Hari Ibu Nasional",
+			"Hari Sosial"
+		]
+	},
+	{
+		"date": "25 Desember",
+		"events":[
+			"Hari Natal"
+		]
+	}]
+}

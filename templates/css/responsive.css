@@ -1,0 +1,54 @@
+@media only screen and (max-width: 768px){
+	.container {
+		width: 70%;
+	}
+	#info {
+		display: block;
+	}
+	#info .info__button__area {
+		display: block;
+	    width: fit-content;
+	    margin: auto;
+	}
+	#info .info__button__area button {
+		margin-bottom: 1rem;
+	}
+}
+@media only screen and (max-width: 480px){
+	.container {
+		width: 80%;
+	}
+
+	.box_contact {
+		margin-right: 0;
+	}
+
+	#countdown .times {
+		font-size: 3rem;
+	}
+	#countdown ul li {
+		font-size: 1.1rem;
+	}
+
+	nav .toggle_btn {
+		display: block!important;
+	}
+	nav ul {
+		display: none;
+	}
+	footer .pull-right {
+		text-align: left;
+		padding: 10px 0;
+	}
+	
+}
+@media only screen and (max-width: 320px){
+	.container {
+		width: 90%;
+	}
+	#info .info__button__area button {
+		margin-right: 0;
+	}
+
+	
+}

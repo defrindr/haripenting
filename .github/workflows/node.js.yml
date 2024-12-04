@@ -1,0 +1,59 @@
+# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
+
+name: Node.js CI
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    env:
+      VERCEL_TOKEN:  ${{ secrets.VERCEL_TOKEN }}
+      SNYK_TOKEN: ${{ secrets.SNYK_AUTH }}
+      test_token: test_tokenbro
+    strategy:
+      matrix:
+        node-version: [18.x, 20.x, 22.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+    - run: npm ci
+    - run: npm run build --if-present
+
+    - name: Install Vercel CLI
+      run: npm install --global vercel@latest
+ 
+    - name: Cek token
+      run: echo "${{ secrets.PORT }}"
+    - name: Pull Vercel Environment Information
+      run: vercel pull --yes --environment=production --token=$VERCEL_TOKEN
+      
+    - name: Build Project Artifacts
+      run: vercel build --prod --token=$VERCEL_TOKEN
+      
+    - name: Run Snyk test to check vulnerabilities
+      uses: snyk/actions@master
+      env:
+        SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
+      with:
+        command: test --all-projects
+    # - name: Run Snyk monitor to check vulnerabilities
+    #   uses: snyk/actions@master
+    #   env:
+    #     SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
+    #   with:
+    #     command: monitor --all-projects
+
+    - name: Deploy Project Artifacts to Vercel
+      run: vercel deploy --prebuilt --prod --token=$VERCEL_TOKEN

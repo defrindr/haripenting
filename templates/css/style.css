@@ -1,0 +1,351 @@
+html,body {
+	padding: 0;
+	margin: 0;
+	font-family: helvetica;
+	font-size: 12px;
+	color: #666;
+	background-color: rgba(244,244,244);
+}
+
+.toTop {
+	background: #6967de;
+	display: inline-block;
+	padding: 5px 15px;
+	position: fixed;
+	bottom: 10px;
+	right: 5px;
+	border-radius: 100%;
+}
+.toTop:focus {
+	animation: clickedAnimation .5s linear;
+}
+
+.toTop p {
+	font-size: 18px;
+	font-family: Poppins;
+	color: #fff;
+	transform: rotate(-90deg);
+	padding: 0px;
+	margin: 0;
+}
+
+
+button:focus {
+	outline: none;
+}
+
+main {
+	min-height: 40vh;
+	margin: 6rem 0;
+}
+
+header{
+	background-color: #6967DE;
+	background: #6967DE;
+	padding: 80px 20px;
+}
+
+a{
+	text-decoration: none;
+}
+
+header a {
+	color: #fff;
+}
+
+.nav_bottom_image {    
+	display: block;
+    width: 100%;
+    background-image: url(../../src/assets/nav_bottom_image1.png);
+    background-size: contain;
+    height: 45rem;
+    /*margin-top: 100px;*/
+    background-repeat: no-repeat;
+}
+
+header	.brand-name {
+	padding: .6rem;
+	font-family: "Open Sans";
+	font-weight: bold;
+	font-size: 2em;
+}
+
+header	.brand-name img {
+	height: 35px;
+}
+header nav {
+	width: 80%;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+	list-style-type: none;
+}
+header nav button.toggle_btn {
+	display: none;
+	background-color: transparent;
+	border: 0;
+}
+
+header ul li {
+
+	
+	display: inline-block;
+	/*display: none;*/
+	padding: 0 1rem;
+}
+
+header ul li:hover a {
+	border-color: #fff;
+}
+
+header ul li a {
+	padding-bottom: 10px;
+	border-width: 0 0 2px 0;
+	border-style: solid;
+	border-color: transparent;
+}
+
+
+header ul li.active a {
+	color: #ccc;
+}
+
+header ul li.active:hover a {
+	border-color: transparent;
+}
+
+
+#countdown {
+	margin: 5rem 0;
+}
+
+#countdown .times {
+	font-family: Poppins;
+	font-weight: bold;
+	font-size: 6em;
+	margin: 2rem 0 .5rem;
+	text-align: center;
+	color: #6967DE;
+}
+#countdown ul {
+	text-align: center;
+	margin: 0;
+	list-style-type: none;
+	padding: 0;
+}
+#countdown ul li::before {
+	content: '" ';
+}
+#countdown ul li::after {
+	content: ' "';
+}
+#countdown ul li {
+	padding: 5px;
+	font-weight: 700;
+	font-family: "Poppins";
+	text-transform: uppercase;
+	color: #666;
+	font-size: 1.3rem;
+} 
+
+svg.tr-10 {
+	transform: translate(0,-10px);
+}
+
+
+#info {
+	padding: 10px 20px;
+	border-radius: 20px;
+	border: 0;
+	display: flex;
+	justify-content: space-between;
+	margin: 3rem 0;
+	box-shadow: 0 0 10px #dedede;
+}
+
+#info .info__text {
+	padding: 20px;
+	display: inline-block;
+}
+#info .info__button__area {
+	display: inline-block;
+	padding: 10px
+}
+#info .info__button__area button {
+	background-color: #6967DE;
+	color: #eee;
+	padding: 10px 20px;
+	margin-right: 1rem;
+	border: 0;
+	border-radius: 5px;
+}
+#info .info__button__area button:focus {
+	animation: clickedAnimation .5s linear;
+}
+.event_permonth_count {
+	font-size: 1.5rem;
+	padding: 2rem;
+}
+
+#content {
+	display: flex;
+	width: 100%;
+	flex-wrap: wrap;
+	margin: 1rem auto 4rem;
+	justify-content: flex-start;
+}
+#content article {
+	border-radius: 10px;
+	border: 1px solid #6967DE;
+	margin-bottom: 2rem;
+	display: block;
+	transition: .1s;
+}
+
+#content article:hover {
+	transition: .3s;
+	box-shadow: 0 0 10px #aaa;
+}
+#content article .article__head {
+	display: flex;
+	width: initial;
+	border-radius: 5px;
+	background: linear-gradient(45deg,#6967DE,#69679E);
+	justify-content: space-between;
+	padding: 5px 20px;
+}
+#content article .article__head p.title {
+	font-size: 1rem;
+	color: #fff;
+}
+#content article .article__head button {
+	background-color: transparent;
+	border: 0;
+	font-family: Poppins;
+	font-size: 24px;
+	color: #fff;
+}
+
+#content article .article__content {
+	font-size: 0;
+}
+
+
+#content article .article__content ul {
+	color: #6967DE;
+	list-style-type: circle;
+}
+
+#content article .article__content ul li {
+	color: #666;
+}
+
+#content article.active {
+
+}
+#content article.active .article__head {
+	border-radius: 5px 5px 0 0;
+}
+#content article.active .article__content {
+	font-size: 1rem;
+	transition: .5s;
+}
+#content article.active .article__head button {
+	transform: rotate(90deg);
+}
+
+footer {
+	background-color: inherit;
+	padding: 2rem 10px;
+	box-shadow: 0 0 10px #dedede;
+	font-family: 'Poppins';
+}
+
+footer a {
+	color: #6967DE;
+	font-weight: bold;
+}
+
+.pull-right {
+	text-align: right;
+}
+
+footer .container .row {
+	flex-wrap: wrap-reverse;
+}
+
+.container {
+	display: block;
+	width: 50%;
+	margin: auto;
+}
+
+.box_contact {
+	color: #666;
+	padding: 10px;
+	border-radius: 10px;
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 3rem;
+	margin-right: 2rem;
+}
+.box_contact:hover {
+	transition: .5s;
+	background-color: #eaeaea;
+	box-shadow: 0 0 10px #dedede;
+}
+.box_contact .box__image{
+	width: 100px;
+	height: 100px;
+	overflow: hidden;
+	border-radius: 100%;
+}
+
+.box_contact .box__image img {
+	width: 100%;
+	height: auto;
+	margin: auto;
+}
+
+.box_contact .box__content {
+	font-size: 12px;
+	padding: 5px 10px 5px 20px;
+	font-family: "Poppins";
+}
+.box_contact .box__content .name{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+
+
+
+/* Let's get this party started */
+::-webkit-scrollbar {
+    width: 8px;
+}
+ 
+/* Track */
+::-webkit-scrollbar-track {
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #6967DE;
+}
+::-webkit-scrollbar-thumb:window-inactive {
+    background: #6967FE;
+}
+
+
+
+
+
+@keyframes clickedAnimation {
+	from {
+		background: linear-gradient(90deg,#6967FE,#69678E)
+	}
+	to {
+		background: linear-gradient(90deg,#6967DE,#6967DE)
+	}
+}
